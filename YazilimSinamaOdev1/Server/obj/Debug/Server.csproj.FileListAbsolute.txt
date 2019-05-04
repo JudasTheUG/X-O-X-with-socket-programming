@@ -1,0 +1,7 @@
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\bin\Debug\Server.exe.config
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\bin\Debug\Server.exe
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\bin\Debug\Server.pdb
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\obj\Debug\Server.exe
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Server\obj\Debug\Server.pdb

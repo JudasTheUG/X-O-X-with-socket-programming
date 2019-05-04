@@ -1,0 +1,10 @@
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\bin\Debug\Client.exe.config
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\bin\Debug\Client.exe
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\bin\Debug\Client.pdb
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.Form1.resources
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.Properties.Resources.resources
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.exe
+D:\JudasTheUG\Projects\YazilimSinamaOdev\Client\obj\Debug\Client.pdb
